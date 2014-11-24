@@ -28,7 +28,7 @@ description: Template，我看有。
 
 ## 那些虚的没用，说点实际的
 
-## 下面我来做一个简要说明，完整的搭建方法，我后面会专门写一篇博客分享给大家，等不及的可以自己去找资料哈。
+下面我来做一个简要说明，完整的搭建方法，我后面会专门写一篇博客分享给大家，等不及的可以自己去找资料哈。
 
 [BeiYuu]:    http://beiyuu.com  "BeiYuu"
 [Steve Losh]:   http://stevelosh.com/   "Steve Losh"
