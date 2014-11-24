@@ -16,7 +16,7 @@ description: Template，我看有。
 
 > "I’m a programmer, photographer, dancer & bassist from Rochester, New York."
 
-呵呵，他完全就过着我期望的生活。
+## 呵呵，他完全就过着我期望的生活。
 
 第二位博主的['Co-op Business Model'][3]文章也是让我茅厕顿开，这种分享的精神，用博主自己活生生的例子讲述出来之后，读者自然会被感动的，我也在团队内分享过这篇文章，下面我简要介绍一下他的事迹吧：
 
